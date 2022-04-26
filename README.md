@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
  <img align="center" alt="Nina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="right" alt="Nina-yoda" height="150" style="border-radius:50px;" src="https://tenor.com/bvIfZ.gif">
-   <img align="left" alt="Nina-yoda" height="150" style="border-radius:50px;" src="https://data.whicdn.com/images/317485033/original.gif"
+   <img align="left" alt="Nina-bts" height="150" style="border-radius:50px;" src="https://data.whicdn.com/images/317485033/original.gif"
  </div> 
   
    ##
