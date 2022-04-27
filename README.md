@@ -7,7 +7,9 @@
 * API
 * NODE.JS
 
-_Bacharel em Serviço Social,gosto de **assistir filmes e doramas**, **ler**, **ir a museus e galerias de arte**, **viajar**, **ouvir música** e **tocar instrumentos muscais** nas horas vagas!_
+_Eu sou acharel em Serviço Social! Gosto de **assistir filmes e doramas**, **ler**, **ir a museus e galerias de arte**, **viajar**, **ouvir música** e **tocar instrumentos muscais** nas horas vagas!_
+
+##
 
 <div align="center">
   <a href="https://github.com/ninaportoc">
