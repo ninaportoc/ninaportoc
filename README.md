@@ -7,7 +7,7 @@
 * API
 * NODE.JS
 
-_Bacharel em Serviço Social,gosto de **assistir doramas**, **ler**, **ouvir** e **tocar instrumentos muscais** nas horas vagas!
+_Bacharel em Serviço Social,gosto de **assistir filmes e doramas**, **ler**, **ir a museus e galerias de arte**, **viajar**, **ouvir música** e **tocar instrumentos muscais** nas horas vagas!_
 
 <div align="center">
   <a href="https://github.com/ninaportoc">
@@ -24,7 +24,7 @@ _Bacharel em Serviço Social,gosto de **assistir doramas**, **ler**, **ouvir** e
   
 <div>  
   <a href = "mailto:marinaporto334@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/marina-porto-carvalho-b50808176" target="_blank"><img scr="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marina-porto-carvalho-b50808176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   ![Snake animation](https://github.com/ninaportoc/ninaportoc/blob/output/github-contribution-grid-snake.svg)
  
