@@ -7,7 +7,7 @@
 * API
 * NODE.JS
 
-_Eu sou acharel em Serviço Social! Gosto de **assistir filmes e doramas**, **ler**, **ir a museus e galerias de arte**, **viajar**, **ouvir música** e **tocar instrumentos muscais** nas horas vagas!_
+_Eu sou bacharel em Serviço Social! Gosto de **assistir filmes e doramas**, **ler**, **ir a museus e galerias de arte**, **viajar**, **ouvir música** e **tocar instrumentos muscais** nas horas vagas!_
 
 ##
 
