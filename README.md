@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-## _Eu sou bacharel em Serviço Social! Gosto de **assistir filme** e **doramas**, **ler**, **ir a museus** e **galerias de arte**, **viajar**, **ouvir música** e **tocar instrumentos muscais** nas horas vagas!_
+ _Eu sou bacharel em Serviço Social! Gosto de **assistir filme** e **doramas**, **ler**, **ir a museus** e **galerias de arte**, **viajar**, **ouvir música** e **tocar instrumentos muscais** nas horas vagas!_
 
 ##
 
