@@ -17,6 +17,6 @@
   <a href = "mailto:marinaporto334@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/marina-porto-carvalho-b50808176/" target="_blank"><img scr="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-    ![Snake animation](https://github.com/ninaportoc/ninaportoc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ninaportoc/ninaportoc/blob/output/github-contribution-grid-snake.svg)
  
 </div>
