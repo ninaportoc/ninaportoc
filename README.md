@@ -17,11 +17,12 @@
   <a href="https://github.com/ninaportoc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ninaportoc&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninaportoc&layout=compact&langs_count=7&theme=vue"/>
+   
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Nina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="right" alt="Nina-yoda" src="https://c.tenor.com/TdXGUNE47FgAAAAi/mandalorian-baby-yoda.gif">
- <img align="left" alt="Nina-bts" src="https://media.giphy.com/media/9x3rbdFIKhYQsHroPW/giphy.gif">
+ <img align="center" alt="Nina-yoda" src="https://c.tenor.com/TdXGUNE47FgAAAAi/mandalorian-baby-yoda.gif"> width="250" height="250"/></h4><br>
+ <img align="right" alt="Nina-bts" src="https://media.giphy.com/media/9x3rbdFIKhYQsHroPW/giphy.gif"> width="250" height="250"/></h4><br>
 </div> 
    
 <div>  
