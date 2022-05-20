@@ -34,8 +34,8 @@
  
 ##
   <div align="right">
-  <img src="https://64.media.tumblr.com/c0d8be3a1d2bfd58a1eb6c91baa5747b/5321eccd302337fc-fc/s400x600/f5ceaa1e1f5a5f705142e087ed9369c0eff52c63.gifv"/>width="250" height="250"/></h4><br>
-  <img src="https://media.giphy.com/media/9x3rbdFIKhYQsHroPW/giphy.gif"/>width="250" height="250"/></h4><br>
+  <img src="https://64.media.tumblr.com/c0d8be3a1d2bfd58a1eb6c91baa5747b/5321eccd302337fc-fc/s400x600/f5ceaa1e1f5a5f705142e087ed9369c0eff52c63.gifv" width="250" height="250"/></h4><br>
+  <img src="https://media.giphy.com/media/9x3rbdFIKhYQsHroPW/giphy.gif" width="250" height="250"/></h4><br>
  </div>
  
 ##
