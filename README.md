@@ -21,8 +21,8 @@
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Nina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Nina-yoda" src="https://c.tenor.com/TdXGUNE47FgAAAAi/mandalorian-baby-yoda.gif"> width="250" height="250"/></h4><br>
- <img align="right" alt="Nina-bts" src="https://media.giphy.com/media/9x3rbdFIKhYQsHroPW/giphy.gif"> width="250" height="250"/></h4><br>
+ <img align="left" alt="Nina-yoda"  height="250" width="250" src="https://c.tenor.com/TdXGUNE47FgAAAAi/mandalorian-baby-yoda.gif"> 
+ <img align="right" alt="Nina-bts" height="250" width="250" src="https://media.giphy.com/media/9x3rbdFIKhYQsHroPW/giphy.gif"> 
 </div> 
    
 <div>  
