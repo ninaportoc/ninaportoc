@@ -13,7 +13,6 @@
 
  _Eu sou bacharel em Serviço Social! Gosto de **assistir filmes** e **doramas**, **ler**, **ir a museus** e **galerias de arte**, **viajar**, **ouvir música** e **tocar instrumentos muscais** nas horas vagas!_
 
-##
 <div align="center">
   <a href="https://github.com/ninaportoc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ninaportoc&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
