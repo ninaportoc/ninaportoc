@@ -24,7 +24,7 @@
  <img align="right" alt="Nina-yoda" src="https://c.tenor.com/TdXGUNE47FgAAAAi/mandalorian-baby-yoda.gif">
  <img align="left" alt="Nina-bts" src="https://media.giphy.com/media/9x3rbdFIKhYQsHroPW/giphy.gif">
 </div> 
-   ## 
+   
 <div>  
   <a href = "mailto:marinaporto334@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marina-porto-carvalho-b50808176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
