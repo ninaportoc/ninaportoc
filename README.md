@@ -19,12 +19,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninaportoc&layout=compact&langs_count=7&theme=vue"/> 
 </div>
  
- ##
+##
  
 <div style="display: inline_block"><br>
  <img align="center" alt="Nina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div> 
  
+##
 
 <div>  
   <a href = "mailto:marinaporto334@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -33,11 +34,11 @@
  
 ##
   <div align="right">
-  <img src="https://64.media.tumblr.com/c0d8be3a1d2bfd58a1eb6c91baa5747b/5321eccd302337fc-fc/s400x600/f5ceaa1e1f5a5f705142e087ed9369c0eff52c63.gifv"/> 
-  <img src="https://media.giphy.com/media/9x3rbdFIKhYQsHroPW/giphy-downsized.gif"/> 
+  <img src="https://64.media.tumblr.com/c0d8be3a1d2bfd58a1eb6c91baa5747b/5321eccd302337fc-fc/s400x600/f5ceaa1e1f5a5f705142e087ed9369c0eff52c63.gifv"/>width="250" height="250"/></h4><br>
+  <img src="https://media.giphy.com/media/9x3rbdFIKhYQsHroPW/giphy.gif"/>width="250" height="250"/></h4><br>
  </div>
  
- 
+##
     
   ![Snake animation](https://github.com/ninaportoc/ninaportoc/blob/output/github-contribution-grid-snake.svg)
  
