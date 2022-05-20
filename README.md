@@ -19,6 +19,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninaportoc&layout=compact&langs_count=7&theme=vue"/> 
 </div>
 <div align="right">
+  <a href="https://github.com/ninaportoc">
   <img height="250" width="250" src="https://c.tenor.com/TdXGUNE47FgAAAAi/mandalorian-baby-yoda.gif"/> 
   <img height="250" width="250" src="https://media.giphy.com/media/9x3rbdFIKhYQsHroPW/giphy-downsized.gif"/> 
  </div>
