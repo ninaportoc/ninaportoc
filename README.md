@@ -39,7 +39,7 @@
     <img src="https://media.giphy.com/media/9x3rbdFIKhYQsHroPW/giphy.gif" width="250" height="250"/></h4><br>
 </div> 
 
-##
+----
     
   ![Snake animation](https://github.com/ninaportoc/ninaportoc/blob/output/github-contribution-grid-snake.svg)
  
