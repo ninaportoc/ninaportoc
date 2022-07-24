@@ -1,17 +1,21 @@
-### Olá! Meu nome é Marina, e estou aprendendo back-end com a {Reprograma}! 
+## :raising_hand_woman: Olá, meu nome é Marina! 
 
-### Estou aprendendo
 
-* Lógica de programação
-* Javascript
-* API
-* NODE.JS
 
-##
+```yaml
+let bio: {
+    name: "Marina Porto",
+    nickname: "Nina",
+    education: "Systems Analysis and Development Student",
+    location: "Brasília, Brazil",
+    code: "Node.js",
+    curiosities: "I love K-pop, K-dramas, museums and all types of art!"
+    }
+```
 
-## Sobre mim
 
- _Eu sou bacharel em Serviço Social! Gosto de **assistir filmes** e **doramas**, **ler**, **ir a museus** e **galerias de arte**, **viajar**, **ouvir música** e **tocar instrumentos muscais** nas horas vagas!_
+__________________________
+
 
 <div align="center">
   <a href="https://github.com/ninaportoc">
